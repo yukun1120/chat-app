@@ -117,6 +117,8 @@
   margin-bottom: 40px;
 }
 
+/* form */
+
 .form {
   height: 90px;
   background-color: #dddddd;
@@ -149,7 +151,7 @@
   border: none;
 }
 
-.form-image {
+.form_image {
   font-size: 12px;
   background-color: lightblue;
   color: white;
